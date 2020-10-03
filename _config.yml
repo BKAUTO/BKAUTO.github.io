@@ -14,11 +14,11 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     BK_Digital
-zhihu_username:     便利店早餐
+zhihu_username:     wu-bing-kun-24
 github_username:    BKAUTO
 twitter_username:   BingkunW
-facebook_username:  Bingkun Wu
-linkedin_username:  Bingkun-Wu-id24908a176
+facebook_username:  bingkun.wu.1
+linkedin_username:  bingkun-wu-24908a176
 
 
 
