@@ -1,4 +1,4 @@
-> Your time is limited, so don’t waste it living someone else’s life. 
+> Pride relates more to our opinion of ourselves, vanity to what we would have others think of us. 
 
 Hi, I am _@BKAUTO_ (Bingkun Wu), a [lanhu](https://www.lanhuapp.com/) software engineer Intern. My interests range from Web Development to Intelligent Hardware.
 
