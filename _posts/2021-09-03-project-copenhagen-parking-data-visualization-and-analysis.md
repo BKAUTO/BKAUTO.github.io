@@ -4,7 +4,7 @@ title: "[Project] Copenhagen Parking Data Visualization and Analysis"
 subtitle: "A website of data visualization"
 date: 2021-09-03
 author: "Bingkun"
-header-img: "img/destinations-copenhagen.jpeg"
+header-img: "img/post-bg-2020.jpg"
 tags: []
 ---
 
