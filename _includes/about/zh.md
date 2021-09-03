@@ -2,10 +2,6 @@
 
 Hi，我是吴炳坤，一个热爱coding的编程小白，前[蓝湖](https://www.lanhuapp.com/) C++实习工程师。
 
-目前的活动范围主要在北京。  
-
-I will start my study at Technical University of Denmark as a master student of Computer Science and Engineering.
-
 <div style='display: none'>
 ##### [我的编程语言可视化 (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
 
