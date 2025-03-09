@@ -1,6 +1,19 @@
 > 去的尽管去了，来的尽管来着；去来的中间，又怎样地匆匆呢？
 
-Hi，我是吴炳坤，一个热爱coding的编程小白，前[蓝湖](https://www.lanhuapp.com/) C++实习工程师。
+Hi，我是bkk，欢迎来到我的博客。
+
+我喜欢阅读、音乐剧，还有与朋友小聚。
+
+#### 教育经历
+**2016 - 2020** 工学学士，北京航空航天大学，自动化  
+**2021 - 2023** 工学硕士，丹麦科技大学，计算机科学与技术    
+
+#### 工作经历 
+**2020 - 2020** 软件开发实习生 [蓝湖](https://www.lanhuapp.com/)  
+**2022 - 2023** 软件开发实习生 [Zendesk](https://www.zendesk.com/)  
+**2023 - 2025** 前台定价与风险计算系统开发 [Nordea Markets](https://www.nordea.com/)  
+
+
 
 <div style='display: none'>
 ##### [我的编程语言可视化 (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)

@@ -1,10 +1,15 @@
 > Pride relates more to our opinion of ourselves, vanity to what we would have others think of us. 
 
-Hi! My name is Bingkun Wu. I got my bachelor degree from Beijing University of Aeronautics and Astronautics (BUAA 20') and I am now a master student in Computer Science and Engineering at the Technical University of Denmark (DTU). 
+#### Education
+**2016 - 2020** B.Eng, Beijing University of Aeronautics and Astronautics, Automation  
+**2021 - 2023** M.Sc, Technical University of Denmark, Computer Science and Engineering  
 
-I was also a former Software Engineer Intern at [Lanhun](https://www.lanhuapp.com/).
+#### Work Experience 
+**2020 - 2020** Software Engineer Intern at [Lanhun](https://www.lanhuapp.com/)  
+**2022 - 2023** Student Developer at [Zendesk](https://www.zendesk.com/)  
+**2023 - 2025** Quant Developer at [Nordea Markets](https://www.nordea.com/)  
 
-Currently I live in Copenhagen, Denmark.
+Currently I live in Copenhagen, Denmark.  
 
 <div style='display: none'>
 ##### [My PL Spectrum (WIP 🚧)](https://huangxuan.me/2020/05/05/pl-chart/)
