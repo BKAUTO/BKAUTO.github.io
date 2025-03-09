@@ -5,7 +5,7 @@
 **2021 - 2023** M.Sc, Technical University of Denmark, Computer Science and Engineering  
 
 #### Work Experience 
-**2020 - 2020** Software Engineer Intern at [Lanhun](https://www.lanhuapp.com/)  
+**2020 - 2020** Software Engineer Intern at [Lanhu](https://www.lanhuapp.com/)  
 **2022 - 2023** Student Developer at [Zendesk](https://www.zendesk.com/)  
 **2023 - 2025** Quant Developer at [Nordea Markets](https://www.nordea.com/)  
 
